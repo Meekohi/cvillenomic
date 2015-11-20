@@ -12,3 +12,5 @@
 * Rule 8. A person wins by acquiring 10 points.
 * Rule 9. A person has 1 point for each time their name is signed in the rules.
   * Rule 9.1. A rule's signature is the "@" character, followed by a name of a person, followed by the end of a line.
+  * Rule 9.2. A rule may only contain one signature.
+  * Rule 9.3. A rule is any numbered section of the rules.
