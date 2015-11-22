@@ -19,4 +19,4 @@
 * Rule 12. When this rule is added, every player who reacted :thumbsup: to the modification that proposed it gets one point, and every player who reacted :thumbsdown: loses one point. @dplepage
   * Rule 12.1 @dlepage
   * Rule 12.2 @the
-  * Rule 12.3 -@meekohi
+  * Rule 12.3 %meekohi
