@@ -21,3 +21,5 @@
   * Rule 12.1 @dlepage
   * Rule 12.2 @the
   * Rule 12.3 %meekohi
+* Rule 13. A person has -1 point for each time their name is slandered in the rules.
+  * Rule 13.1 A rule slanders a person when the "%" character, immediately followed by a name of a person, occurs at the end of a the rule.
