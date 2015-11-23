@@ -3,6 +3,7 @@
 * Rule 1. This is a game is called Cvillenomic
 * Rule 2. The rules for Cvillenomic are at https://github.com/Meekohi/cvillenomic
 * Rule 3. Actions that do not obey these rules are not part of the game.
+* Rule π​ When a new rule is created, it is assigned a number equal to one more than the number of the highest integer-numbered rule.
 * Rule 4. The game is played according to the rules that prevail at the time.
 * Rule 5. Any human organism is a person. No other entities are persons.
 * Rule 6. Any person present in the "Cville" team's #cvillenomic Slack channel is a player.
