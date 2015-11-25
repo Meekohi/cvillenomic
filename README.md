@@ -28,3 +28,9 @@
   4. **@the**
   5. **%meekohi**
   6. **@kevin**
+
+  Nov 23 Voting
+  
+  7. **@dplepage**
+  8. **@meekohi**
+  9. **@kevin**
