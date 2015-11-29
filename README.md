@@ -35,3 +35,10 @@
   7. **@dplepage**
   8. **@meekohi**
   9. **@kevin**
+
+  Nov 25 Voting
+  
+  7. **@dplepage**
+  8. **@meekohi**
+  9. **@kevin**
+  10. **@jxf**
