@@ -19,7 +19,7 @@
   2. A player's name is *slandered* if a rule ends with the `%` character followed by that player's slack username.
   3. A player's *reputation* is the number of times their name is *signed* minus the number of times that player's name is *slandered*.
   4. A player wins if their *reputation* is greater than 20 or less than -40. **@dplepage**
-  5. When a player votes in the #cvillenomic slack channel, they gain one reputation, but no more than once per player per day. **@jhwhite**
+  5. When a player votes in the #cvillenomic slack channel, they gain one reputation, but no more than once per player per weekday. **@jhwhite**
   6. Two players may **duel** by wagering some of their reputation and playing any suitable game with a random winner (flip a coin, rock paper scissors, war, etc) visible to everyone in the channel. A third player should referee the duel to ensure fairness and compliance with the rules of Cvillenomic. At the conclusion of the duel, the winner of the game receives all wagered reputation and the referee gains one reputation.
 
 4. The Scoreboard
