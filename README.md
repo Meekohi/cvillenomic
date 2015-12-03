@@ -51,12 +51,14 @@
   10. **@kevin**
   
   Nov 30 Voting
+
   7. **@dplepage**
   8. **@meekohi**
   9. **@kevin**
   10. **@jxf**
   
   Dec 1 Voting 
+
   8. **@meekohi**
   9. **@rduplain**
   10. **@dplepage**
