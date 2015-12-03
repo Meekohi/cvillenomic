@@ -26,6 +26,13 @@
   5. When a player votes in the #cvillenomic slack channel, they gain one reputation, but no more than once per player per weekday. **@jhwhite**
   6. Two players may **duel** by wagering some of their reputation and playing any suitable game with a random winner (flip a coin, rock paper scissors, war, etc) visible to everyone in the channel. A third player should referee the duel to ensure fairness and compliance with the rules of Cvillenomic. At the conclusion of the duel, the winner of the game receives all wagered reputation and the referee gains one reputation.
 
+4. Don't be a jerk
+  1. Players shouldn't do any of the things listed in this rule. We can't actually stop you, but know that doing these doesn't make you clever or cool, it just makes you an asshole and nobody will want to play games with you: **@dplepage**
+       * Changing your vote reaction on a proposal that's already resolved
+       * Erasing/editing modification posts that have already been resolved
+       * Pretending to be multiple different people in the channel
+       * Un-pinning other players' pinned posts (except when the rules specifically allow you to do so)
+
 4. The Scoreboard
   1. When a rule or modification states that a player gains or loses reputation, new rules are automatically added to this section containing the minimum text necessary to sign or slander that player's name as necessary to make the prescribed reputation change.
   2. **@dplepage**
