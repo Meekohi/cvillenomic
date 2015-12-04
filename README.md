@@ -1,4 +1,4 @@
-# cvillenomic
+# Cvillenomic
 
 1. Cvillenomic
   1. This is a game called Cvillenomic. The rules, and any other relevant game state, are tracked at https://github.com/Meekohi/cvillenomic
