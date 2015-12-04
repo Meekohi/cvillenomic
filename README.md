@@ -76,12 +76,14 @@
   11. **@kevin**
    
   Dec 2 Voting
+
   7. **@dplepage**
   8. **@meekohi**
   9. **@kevin**
   10. **@jxf**
   
   Dec 3 Voting
+
   7. **@dplepage**
   8. **@meekohi**
   9. **@kevin**
