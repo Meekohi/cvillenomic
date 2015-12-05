@@ -27,7 +27,8 @@
   6. Two players may **duel** by wagering some of their reputation and playing any suitable game with a random winner (flip a coin, rock paper scissors, war, etc) visible to everyone in the channel. A third player should referee the duel to ensure fairness and compliance with the rules of Cvillenomic. At the conclusion of the duel, the winner of the game receives all wagered reputation and the referee gains one reputation.
 
 4. Don't be a jerk
-  1. Players shouldn't do any of the things listed in this rule. We can't actually stop you, but know that doing these doesn't make you clever or cool, it just makes you an asshole and nobody will want to play games with you: **@dplepage**
+  1. !!! Players shouldn't do any of the things listed in rule 4.2. We can't actually stop you, but know that doing these doesn't make you clever or cool, it just makes you an asshole and nobody will want to play games with you: **@dplepage**
+  2. Players shouldn't do these things:
        * Changing your vote reaction on a proposal that's already resolved
        * Erasing/editing modification posts that have already been resolved
        * Pretending to be multiple different people in the channel
