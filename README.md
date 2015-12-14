@@ -101,12 +101,12 @@
  1. `㊿→㊿→㊿→㊿→㊿‼` **@meekohi**
  2. `㊿→㊿→㊿→㊿→㊿‼` **@meekohi**
  3. `ack(99!,9)` **%jxf**
- 2. `ack(99!,9)` **%jxf**
- 3. `jxf's + 1` **@dlepage**
- 2. `jxf's + 1` **%dlepage**
-
+ 4. `ack(99!,9)` **%jxf**
+ 5. `jxf's + 1` **%dplepage**
+ 6. `jxf's + 1` **@dplepage**
+ 
  Referee of the Biggest Number Game
 
- 2. **@dlepage**
- 3. **@jxf**
- 2. **@rduplain**
+ 1. **@dplepage**
+ 2. **@jxf**
+ 3. **@rduplain**
