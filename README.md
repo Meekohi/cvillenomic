@@ -104,3 +104,9 @@
  2. `ack(99!,9)` **%jxf**
  3. `jxf's + 1` **@dlepage**
  2. `jxf's + 1` **%dlepage**
+
+Referee of the Biggest Number Game
+
+ 2. **@dlepage**
+ 3. **@jxf**
+ 2. **@rduplain**
