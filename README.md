@@ -89,3 +89,12 @@
   8. **@meekohi**
   9. **@kevin**
   10. **@jxf**
+
+ The Biggest Number Game
+ 
+ 1. `㊿→㊿→㊿→㊿→㊿‼` **@meekohi**
+ 2. `㊿→㊿→㊿→㊿→㊿‼` **@meekohi**
+ 3. `ack(99!,9)` **%jxf**
+ 2. `ack(99!,9)` **%jxf**
+ 3. `jxf's + 1` **@dlepage**
+ 2. `jxf's + 1` **%dlepage**
