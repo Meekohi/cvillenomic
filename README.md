@@ -90,7 +90,7 @@
   9. **@kevin**
   10. **@jxf**
 
- Dec 4 Voting
+  Dec 4 Voting
   
   7. **@dplepage**
   8. **@meekohi**
@@ -105,7 +105,7 @@
  3. `jxf's + 1` **@dlepage**
  2. `jxf's + 1` **%dlepage**
 
-Referee of the Biggest Number Game
+ Referee of the Biggest Number Game
 
  2. **@dlepage**
  3. **@jxf**
