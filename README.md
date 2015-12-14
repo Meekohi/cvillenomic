@@ -90,6 +90,12 @@
   9. **@kevin**
   10. **@jxf**
 
+ Dec 4 Voting
+  
+  7. **@dplepage**
+  8. **@meekohi**
+  10. **@jxf**
+
  The Biggest Number Game
  
  1. `㊿→㊿→㊿→㊿→㊿‼` **@meekohi**
