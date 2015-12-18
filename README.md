@@ -25,6 +25,7 @@
   4. A player wins if their *reputation* is greater than 20 or less than -40. **@dplepage**
   5. When a player votes in the #cvillenomic slack channel, they gain one reputation, but no more than once per player per weekday. **@jhwhite**
   6. Two players may **duel** by wagering some of their reputation and playing any suitable game with a random winner (flip a coin, rock paper scissors, war, etc) visible to everyone in the channel. A third player should referee the duel to ensure fairness and compliance with the rules of Cvillenomic. At the conclusion of the duel, the winner of the game receives all wagered reputation and the referee gains one reputation.
+  7. No player may gain more than two reputation per day for refereeing duels. **@dplepage**
 
 4. Don't be a jerk
   1. !!! Players shouldn't do any of the things listed in rule 4.2. We can't actually stop you, but know that doing these doesn't make you clever or cool, it just makes you an asshole and nobody will want to play games with you: **@dplepage**
@@ -111,6 +112,17 @@
  2. **@jxf**
  3. **@rduplain**
  
+  Dec 4 Voting
+  
+  7. **@jhwhite**
+  8. **@meekohi**
+  10. **@jxf**
+  11. **@dplepage**
+  
+  Dec 8 Voting
+  
+  7. **@jhwhite**
+
   Dec 14 Voting
   
   7. **@dplepage**
