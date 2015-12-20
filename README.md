@@ -6,9 +6,7 @@
   3. The phrase "the channel" refers to the "Cville" team's #cvillenomic Slack channel.
   3. A *player* is defined as a human organism present in the channel.
   4. A *rule* is any numbered block of this document.
-  5.  A rule is either ​_protected_​ or not. **@jxf**
-    1. If a rule does not state whether it is protected or not, it is not protected.
-    2. A rule is protected if it has "!!!" immediately following its numbered section identifier.
+  5.  A rule is _protected_ if and only if it has "!!!" immediately following its numbered section identifier. **@dplepage**
 
 2. Modifications
   1. Players may propose *modifications* to the rules and/or the gamestate via the channel. Players are encouraged to use bold text to indicate when they're proposing modifications (and are discouraged from using bold text in other messages).
@@ -127,3 +125,9 @@
   
   7. **@dplepage**
   8. **@meekohi**
+
+  Dec 18 Voting
+  
+  7. **@dplepage**
+  8. **@meekohi**
+  9. **@kevin**
