@@ -6,7 +6,8 @@
   3. The phrase "the channel" refers to the "Cville" team's #cvillenomic Slack channel.
   3. A *player* is defined as a human organism present in the channel.
   4. A *rule* is any numbered block of this document.
-  5.  A rule is _protected_ if and only if it has "!!!" immediately following its numbered section identifier. **@dplepage**
+  5. A rule is either ​_protected_​ or not. **@jxf**
+    1. A rule is _protected_ if and only if it has "!!!" immediately following its numbered section identifier. **@dplepage**
 
 2. Modifications
   1. Players may propose *modifications* to the rules and/or the gamestate via the channel. Players are encouraged to use bold text to indicate when they're proposing modifications (and are discouraged from using bold text in other messages).
@@ -42,46 +43,46 @@
   6. **@kevin**
 
   Nov 23 Voting
-  
+
   7. **@dplepage**
   8. **@meekohi**
   9. **@kevin**
 
   Nov 25 Voting
-  
+
   7. **@dplepage**
   8. **@meekohi**
   9. **@kevin**
   10. **@jxf**
 
   Nov 27 Voting
-  
+
   7. **@dplepage**
   8. **@meekohi**
   9. **@itruett**
   10. **@kevin**
-  
+
   Nov 30 Voting
 
   7. **@dplepage**
   8. **@meekohi**
   9. **@kevin**
   10. **@jxf**
-  
-  Dec 1 Voting 
+
+  Dec 1 Voting
 
   8. **@meekohi**
   9. **@rduplain**
   10. **@dplepage**
   11. **@kevin**
-   
+
   Dec 2 Voting
 
   7. **@dplepage**
   8. **@meekohi**
   9. **@kevin**
   10. **@jxf**
-  
+
   Dec 3 Voting
 
   7. **@dplepage**
@@ -90,44 +91,44 @@
   10. **@jxf**
 
   Dec 4 Voting
-  
+
   7. **@dplepage**
   8. **@meekohi**
   10. **@jxf**
 
  The Biggest Number Game
- 
+
  1. `㊿→㊿→㊿→㊿→㊿‼` **@meekohi**
  2. `㊿→㊿→㊿→㊿→㊿‼` **@meekohi**
  3. `ack(99!,9)` **%jxf**
  4. `ack(99!,9)` **%jxf**
  5. `jxf's + 1` **%dplepage**
  6. `jxf's + 1` **@dplepage**
- 
+
  Referee of the Biggest Number Game
 
  1. **@dplepage**
  2. **@jxf**
  3. **@rduplain**
- 
+
   Dec 4 Voting
-  
+
   7. **@jhwhite**
   8. **@meekohi**
   10. **@jxf**
   11. **@dplepage**
-  
+
   Dec 8 Voting
-  
+
   7. **@jhwhite**
 
   Dec 14 Voting
-  
+
   7. **@dplepage**
   8. **@meekohi**
 
   Dec 18 Voting
-  
+
   7. **@dplepage**
   8. **@meekohi**
   9. **@kevin**
